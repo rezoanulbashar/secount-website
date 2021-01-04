@@ -1,0 +1,26 @@
+.box-1{
+    background-color: rgb(238, 142, 17);
+    width: 33%;
+    height: 300px;
+    float: left;
+}
+
+/**/
+
+.box-2{
+    background-color: rgb(255, 183, 0);
+    width: 33%;
+    height: 300px;
+    float: left;
+}
+.box-3{
+    background-color: hotpink;
+    width: 33%;
+    height: 300px;
+    float: left;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    color: #ffffff;
+}
